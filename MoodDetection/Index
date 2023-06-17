@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background-color: #F2F8FF;
+        }
+    </style>
+</head>
+<body>
+{%app_entry%}
+</body>
+</html>
