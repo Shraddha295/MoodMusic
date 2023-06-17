@@ -7,4 +7,3 @@ streamlit==1.20.0
 streamlit_webrtc==0.45.0
 tensorflow==2.12.0
 protobuf==3.20.3
-browser.gatherUsageStats==false
